@@ -162,7 +162,7 @@ https://nextgenz.my.id/event/pidio/play.m3u8?id=782&type=hls
 https://nextgenz.my.id/event/pidio/play.m3u8?id=734&type=hls
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://cdn.macan.tv/img/trans7.png",Trans 7 HD (INDI)
-https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest_w2143328155_qRFZS.mpd?encp=&uid=&expp=
+https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest_9Jr571qZeUqjOGELeJH35g.mpd?encp=&uid=&expp=
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -175,7 +175,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest_w2143328155_qRFZS
 https://nextgenz.my.id/event/pidio/play.m3u8?id=733&type=hls
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://cdn.macan.tv/img/transtv.png",Trans TV HD (VDO)
-https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest_w2143328155_qRFZS.mpd?encp=&uid=&expp=
+https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest_9Jr571qZeUqjOGELeJH35g.mpd?encp=&uid=&expp=
+
+https://cdn11jtedge.indihometv.com/dass/133/transtv/manifest_wuseetv.mpd?encp=9Jr571qZeUqjOGELeJH35g&uid=&expp=1764005839
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
