@@ -719,6 +719,10 @@ https://9b663bb2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcH
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66997e8d3a4ad20008e50be9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10" group-title="VIP SPORTS",LALIGA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
 #EXTINF:-1 tvg-id="ts812" tvg-logo="https://i.ibb.co.com/9c6LmLW/eurosp.png" group-title="VIP SPORTS",Eurosport Asia
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
