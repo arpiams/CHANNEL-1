@@ -63,7 +63,7 @@
 https://nextgenz.my.id/event/pidio/play.mpd?id=19385&type=dash
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvu43wunrydI7mT8B12uzOZCjR9noWTIuhnJv7uXa9Syg0dZ0Z-Zk1IQPI&s=10" group-title="LOCAL SPORTS",CAMPIONE TV 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvu43wunrydI7mT8B12uzOZCjR9noWTIuhnJv7uXa9Syg0dZ0Z-Zk1IQPI&s=10" group-title="VIP SPORTS",CAMPIONE TV 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
