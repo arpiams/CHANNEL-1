@@ -564,10 +564,12 @@ http://tv.casindo.org/hls/92/92.m3u8
 
 
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png",Celestial Movies
+http://tv.casindo.org/hls/68/68.m3u8
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
-https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mediampd/CelestialMoviesHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mediampd/CelestialMoviesHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -632,10 +634,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="AXNHD.MACAN" group-title="MOVIE" tvg-logo="https://i.imgur.com/jWAQfAf.png",AXN
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08 
-https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mediampd/AXNHD.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://i.imgur.com/8JvUxar.png" group-title="MOVIE",MY CINEMA ASIA
@@ -702,10 +703,16 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/Rock
 #### SPORTS ###
 
 
+
+
+
+
 #EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="VIP SPORTS" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
+#EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="VIP SPORTS" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport
+http://tv.casindo.org/hls/49/49.m3u8
 
 #EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstar ᴴᴰ
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
