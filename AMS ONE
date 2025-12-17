@@ -397,9 +397,9 @@ EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/4r2D8xN.png",IMC
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png", Bioskop Indonesia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+http://tv.casindo.org/hls/31/31.m3u8
 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
@@ -620,12 +620,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mediampd/HitsHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesHD.mpd
 
 #EXTINF:-1 tvg-name="" tvg-id="HITSNow" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits Now.png" group-title="MOVIE",HITS NOW
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059 
-https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
-#EXTVLCOPT:http-user-agent=stream
-http://iptvid.my.id/avc/Arvi89/arviams18031989/hitsnow.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
+https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
 #EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="WarnerTV.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/warnertv.png", WARNER TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
