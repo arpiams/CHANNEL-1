@@ -913,6 +913,9 @@ https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&
 
 
 
+
+
+
 ############################################### 
 
 
@@ -978,13 +981,13 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9405
 
 
 #EXTINF:-1  tvg-name="Hub Premier 1 FHD" tvg-id="Hub.Premier.1.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-title="VIP SPORTS" radio="false",Hub Premier 1 FHD
-https://a1xs.vip/1100041
+http://vocotv.pro:80/robins/robins/288375
 #EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="VIP SPORTS" radio="false",Hub Premier 2 FHD
-https://a1xs.vip/1100042
+http://vocotv.pro:80/robins/robins/288374
 #EXTINF:-1  tvg-name="Hub Premier 3 FHD" tvg-id="Hub.Premier.3.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png?raw=true" group-title="VIP SPORTS" radio="false",Hub Premier 3 FHD
-https://a1xs.vip/1100043
+http://vocotv.pro:80/robins/robins/288373
 #EXTINF:-1  tvg-name="Hub Premier 4 FHD" tvg-id="Hub.Premier.4.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-4-sg.png?raw=true" group-title="VIP SPORTS" radio="false",Hub Premier 4 FHD
-https://a1xs.vip/1100044
+http://vocotv.pro:80/robins/robins/288372
 
 #EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="VIP SPORTS",TNT Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1040,10 +1043,9 @@ EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://static.wikia.nocookie.net/y
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 #EXTINF:-1 tvg-id="WWENetwork" tvg-name="WWE Network HD" group-title="VIP SPORTS" group-logo="https://i.postimg.cc/cJNBS015/muat-turun.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png",WWE NETWORK
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/wwe.png" group-title="Wrestling",Wrestling
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://tvmate.icu:8080/69NpyV/884735/11645
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="VIP SPORTS",WWE: Monday Night RAW [Netflix]
 #EXTVLCOPT:http-origin=https://ppv.to
