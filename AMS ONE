@@ -64,48 +64,91 @@ EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipe
 
 
 
-#EXTINF:-1 tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" group-title="SEAGAMES", SeaGames 1
+EXTINF:-1 tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" group-title="SEAGAMES", SeaGames 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" group-title="SEAGAMES", SeaGames 2
+EXTINF:-1 tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" group-title="SEAGAMES", SeaGames 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" group-title="SEAGAMES", SeaGames 3
+EXTINF:-1 tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" group-title="SEAGAMES", SeaGames 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" group-title="SEAGAMES", SeaGames 4
+EXTINF:-1 tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" group-title="SEAGAMES", SeaGames 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" group-title="SEAGAMES", SeaGames 5
+EXTINF:-1 tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" group-title="SEAGAMES", SeaGames 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" group-title="SEAGAMES", SeaGames 6
+EXTINF:-1 tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" group-title="SEAGAMES", SeaGames 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
 
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Fl0o3HtngPvh-ISrY-_PoJSlgKo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4803427/121ea3.jpg" group-title="EVENT", 🔴 15:00 wib 03/01/26 Borneo FC Samarinda vs PSM Makassar - BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=19988&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=19988&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/P37-y1DAFikoBr8n5dz96Wcbg_o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4803412/1a6ba0.jpg" group-title="EVENT", 🔴 15:00 wib 03/01/26 Jelang Kick Off - PERSIJA vs PERSIJAP - BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://manamedian.serv00.net/vidio/main.php/m3u8.mpd?id=19383
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/D5WAVlG3ybEw6S2BSlD8aTaT0lY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4803414/96481a.jpg" group-title="EVENT", 🔴 15:22 wib 03/01/26 PERSIJA vs PERSIJAP - BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=19384&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=19384&type=dash
+
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/w0iNYDd18XTHX0srZhixiUYeF30=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4803416/387d13.jpg" group-title="EVENT", 🔴 15:22 wib 03/01/26 FC Bekasi City vs Persiraja Banda Aceh - Pegadaian Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=19543&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=19543&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/JVDHFFAjiiMnzwZ6mv_OwJcggzQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4803423/fb2f1a.jpg" group-title="EVENT", 🔴 15:22 wib 03/01/26 Persekat Tegal vs Sumsel United - Pegadaian Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://manamedian.serv00.net/vidio/main.php/m3u8.mpd?id=19541
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/PPObpYL0LHapCYWj41O4FjnRq7Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4803418/545e23.jpg" group-title="EVENT", 🔴 15:30 wib 03/01/26 Persikad vs PSMS Medan - Pegadaian Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://manamedian.serv00.net/vidio/main.php/m3u8.mpd?id=19542
 
 
 #############$$$$############
@@ -863,7 +906,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=c		om.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17875&type=drm
 EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png",BEIN SPORTS 2 VD
 https://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash
@@ -938,8 +981,6 @@ https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=6786&type=drm
 https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6786&type=dash
 
-
-
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_JgK6sF833VoC2rS74aDyGRswgzb9juEfQ&usqp=CAU" group-title="Champions TV ",Champions 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -947,7 +988,12 @@ https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=9182&type=drm
 https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=9182&type=dash
 
-
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/pwYcmymNIlARCWgBZqDSNa_d6hY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="Champions TV ",Champions 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=9183&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=9183&type=dash
 
 ############################################### 
 
