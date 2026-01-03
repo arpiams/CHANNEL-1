@@ -758,7 +758,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/Rock
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/voli.png" group-title="VIP SPORTS", TV VOLI
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/Voli.m3u8
 
 #EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="VIP SPORTS" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -939,13 +941,13 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash
 EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png",BEIN SPORTS 3 VD
 https://sweet-night-1d1d.worst.workers.dev/?id=6317&type=dash
 
-#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="SkySport",SkySport Premiers League
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-premier-league-uk.png",SkySport Premiers League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 
-#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="SkySport",SkySport Mix
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-mix-uk.png",SkySport Mix Premiers League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
