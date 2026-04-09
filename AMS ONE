@@ -112,6 +112,28 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 
 #############$$$$############
 
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSReels_2026_01_31_00_37_47.jpg",Max Reels
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg",Max Eats
+https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXStreak_2026_01_30_13_56_10.jpg",Max Streak
+https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg",Max Kids
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180_x_180__2026_02_12_15_17_01.png",Max Stream
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=727489e7583045de8d7e118acb8f757d:13fe71d17a1f9a8cdec42b1089275b03
+https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest.mpd
+
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",Max Sports
+https://cdn10jtedge.indihometv.com/atm/DASH/useesport/manifest.mpd
+
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -156,7 +178,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kz2Z3WM.png" group-title="LOKAL" tvg-id="DuniaLain.id" tvg-name="Dunia Lain", Dunia Lain
-http://tv.casindo.org/hls/81/81.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33e5bead1364469aa10625a95f512d44:4bad449e73fde62396a03b9d82f81b7f
+https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_90.png",Hanacaraka TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -245,19 +269,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/transtv/manifest.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV
 
 #EXTINF:-1 tvg-id="MDTV.id" group-title="LOKAL" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png",MDTV (VDO)
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/net/manifest.mpd
-#https://cdn11jtedge.indihometv.com/dass/133/net/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6568e0d0a23406ebbe24619fdd063ed:4d6a505b7361c5e1b07ffa72155d045f
+https://cdn08jtedge.indihometv.com/dassdvr/134/net/manifest.mpd
 
 
 #EXTINF:-1 tvg-ID="2" tvg-logo="https://cdn.macan.tv/img/rtv.png" group-title="LOKAL",RTV
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",MOJI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -266,20 +284,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
 
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/jaktv.png" group-title="LOKAL",JAK TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=5415type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=5415&type=dash
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
-https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="LOKAL",NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
@@ -1533,7 +1538,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=l
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Gcjjmr3/nickelodeon.png" group-title="ANAK" tvg-id="Nickelodeon - [Channel 49].id", NICKELODEON
-http://tv.casindo.org/hls/9/9.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1572,17 +1577,22 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mediampd/CartoonNetWHD.mpd
 
 #EXTINF:-1  group-title="ANAK" tvg-id="ANIPLUS HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.ibb.co.com/q0xKr36/aniplus.png", ANIPLUS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
 #EXTINF:-1 tvg-id="Animax.id" group-title="ANAK" tvg-logo="https://i.ibb.co.com/YtbGB55/animax.png",Animax HD
 https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
+
+#EXTINF:-1 tvg-id="Animax.id" group-title="ANAK" tvg-logo="https://i.ibb.co.com/YtbGB55/animax.png",Animax HD (INDI)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=74eaa28cbcf24bafb4c8089abd018a63:1443c25b38e58478ee28628bcd9eb29b
+https://cdn08jtedge.indihometv.com/dassdvr/130/animax/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="DreamWorks (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.ibb.co.com/0Jn1cxZ/dreamwork.png" group-title="ANAK",DREAMWORK
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
